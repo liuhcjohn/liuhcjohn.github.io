@@ -9,6 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
+<div class="cv-download-section" style="text-align: center; margin-bottom: 30px; padding: 20px; background-color: #f8f9fa; border-radius: 8px;">
+  <h2 style="margin-bottom: 15px;">Download Resume</h2>
+  <p style="margin-bottom: 20px;">View or download my complete resume in PDF format:</p>
+  <a href="{{ base_path }}/files/Liu_John_Resume.pdf" class="btn btn--primary btn--large" target="_blank" style="font-size: 16px; padding: 12px 24px;">
+    <i class="fas fa-download"></i> Download Resume (PDF)
+  </a>
+</div>
+
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
