@@ -19,35 +19,46 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Bachelor of Science in Electrical Engineering**  
+  University Name, Year
+  * Relevant Coursework: Circuit Design, Digital Systems, Signal Processing
+  * GPA: [Your GPA]
 
-Work experience
+* **Master of Science in [Your Field]** (if applicable)  
+  University Name, Year
+  * Focus: [Your specialization]
+  * Thesis: [Your thesis title]
+
+Professional Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Senior Design Engineer** | [Current/Recent Position]  
+  Company Name, [Start Date] - [End Date/Present]
+  * Led development of [specific projects/technologies]
+  * Collaborated with cross-functional teams to deliver [specific outcomes]
+  * Implemented [specific technologies/methodologies] resulting in [specific improvements]
+  * Mentored junior engineers and contributed to technical documentation
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **[Previous Position Title]**  
+  Company Name, [Start Date] - [End Date]
+  * Designed and implemented [specific systems/solutions]
+  * Managed [specific responsibilities]
+  * Achieved [specific accomplishments/metrics]
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+* **[Earlier Position Title]**  
+  Company Name, [Start Date] - [End Date]
+  * Developed [specific skills/projects]
+  * Contributed to [specific team/department goals]
+  * Gained experience in [specific technologies/domains]
+
+Technical Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Programming Languages**: [e.g., Python, C++, MATLAB, Verilog]
+* **Software & Tools**: [e.g., CAD software, simulation tools, development environments]
+* **Hardware**: [e.g., FPGA, microcontrollers, circuit design, testing equipment]
+* **Specialized Knowledge**: 
+  * [Specific domain expertise]
+  * [Relevant technologies]
+  * [Industry standards/protocols]
 
 Publications
 ======
@@ -67,6 +78,27 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Certifications & Awards
 ======
-* Currently signed in to 43 different slack teams
+* **[Professional Certification]** - [Issuing Organization], [Year]
+* **[Industry Award/Recognition]** - [Organization], [Year]
+* **[Academic Honor]** - [Institution], [Year]
+
+Projects & Research
+======
+* **Cisco 1RU Senior Design Project** - [Year]
+  * [Brief description of the project]
+  * Technologies used: [List relevant technologies]
+  * [Key achievements/outcomes]
+
+* **[Additional Project Name]**
+  * [Project description and your role]
+  * [Technologies and methodologies used]
+  * [Results and impact]
+
+Professional Activities
+======
+* **[Professional Organization]** - Member since [Year]
+* **[Committee/Board Position]** - [Organization], [Year-Year]
+* **[Conference/Workshop]** - Presenter/Attendee, [Year]
+* **[Volunteer Experience]** - [Organization], [Year-Year]
